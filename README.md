@@ -1,15 +1,16 @@
-## Welcome to GitHub Pages
+## Background
 
-You can use the [editor on GitHub](https://github.com/MacWannemacher/Snot-vs-Bubbles/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+	Little Timothy was bored in class one day when he started to scetch in his notebook. 
+He was drawing some cartoon faces and a spaceship in his notebook, when they suddenly came to life
+right on the paper. Now it's up to you to control the ship and shoot down those cartoons. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### How to Play
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+Movement
+	To move your ship,use the arrow keys to move left, right, up, and down.
+Shooting
+	Press the space bar to fire your bubble gun. 
+Clear all the bad guys to win the game but be careful, the back line has two lives.
 
 # Header 1
 ## Header 2
