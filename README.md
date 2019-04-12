@@ -1,8 +1,6 @@
 ## Background
 
-	Little Timothy was bored in class one day when he started to scetch in his notebook. 
-He was drawing some cartoon faces and a spaceship in his notebook, when they suddenly came to life
-right on the paper. Now it's up to you to control the ship and shoot down those cartoons. 
+Little Timothy was bored in class one day when he started to scetch in his notebook. He was drawing some cartoon faces and a spaceship in his notebook, when they suddenly came to life right on the paper. Now it's up to you to control the ship and shoot down those cartoons. 
 
 ### How to Play
 
@@ -12,27 +10,15 @@ Shooting
 	Press the space bar to fire your bubble gun. 
 Clear all the bad guys to win the game but be careful, the back line has two lives.
 
-# Header 1
-## Header 2
-### Header 3
+#  Powerups
 
-- Bulleted
-- List
+There are two powerups in the game. The Chug Jug will restore your health. The bubble gun will give you atomatic firing. Just hold the space bar while you have this powerup.
 
-1. Numbered
-2. List
+# Screenshots
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+![Screenshot (2)](https://user-images.githubusercontent.com/49493324/56055545-b4cdba80-5d27-11e9-9707-9aebe2200ba3.png)
+![Screenshot (3)](https://user-images.githubusercontent.com/49493324/56055546-b4cdba80-5d27-11e9-8e63-f23287a28060.png)
+![Screenshot (4)](https://user-images.githubusercontent.com/49493324/56055547-b4cdba80-5d27-11e9-87a9-aab9842966d8.png)
+![Screenshot (1)](https://user-images.githubusercontent.com/49493324/56055549-b4cdba80-5d27-11e9-8f32-b0a2dbbe7df2.png)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MacWannemacher/Snot-vs-Bubbles/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
