@@ -5,9 +5,11 @@ Little Timothy was bored in class one day when he started to scetch in his noteb
 ## How to Play
 
 # Movement
-	To move your ship,use the arrow keys to move left, right, up, and down.
+To move your ship,use the arrow keys to move left, right, up, and down.
+
 # Shooting
-	Press the space bar to fire your bubble gun. 
+Press the space bar to fire your bubble gun. 
+
 Clear all the bad guys to win the game but be careful, the back line has two lives.
 
 #  Powerups
