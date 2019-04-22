@@ -23,4 +23,4 @@ There are two powerups in the game. The Chug Jug will restore your health. The b
 ![Screenshot (1)](https://user-images.githubusercontent.com/49493324/56055549-b4cdba80-5d27-11e9-8f32-b0a2dbbe7df2.png)
 
 ## Credits
-All music was from http://freesound.org and all pictures from google images.
+All music was from [freesound](http://freesound.org) and all pictures from google images.
